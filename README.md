@@ -30,6 +30,6 @@ Web Developer & Teacher
 ### Badges
 
 <b>My GitHub Stats</b>
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats" /></a>
+<a href= "https://github-readme-stats.vercel.app/api?username=mrmmdking)](https://github.com/anuraghazra/github-readme-stats" </a>
 ### Support Me
 <a href="https://www.buymeacoffee.com/mohammadmosavi"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
