@@ -28,6 +28,6 @@ Web Developer & Teacher
   <a href="https://www.linkedin.com/in/mohamad-mosavi/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
 
 ### Badges
-![Github Status](https://github-readme-stats.vercel.app/api?mrmmdking&theme=dark)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrmmdking)](https://github.com/anuraghazra/github-readme-stats)
 ### Support Me
 <a href="https://www.buymeacoffee.com/mohammadmosavi"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
