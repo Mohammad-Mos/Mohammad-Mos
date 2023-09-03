@@ -32,5 +32,3 @@ Web Developer & Teacher
 
 ### Badges
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrmmdking&show_icons=true&theme=dark)
-### Support Me
-<a href="https://www.buymeacoffee.com/mohammadmosavi"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
